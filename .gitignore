@@ -1,0 +1,40 @@
+# Ignore Eclipse project settings
+.project
+.classpath
+.settings/
+
+# Ignore build directories
+/bin/
+/build/
+/target/
+/out/
+
+# Ignore Tomcat work/temp/log folders
+*.log
+*.tmp
+work/
+temp/
+
+# Ignore compiled class files
+*.class
+
+# Ignore IDE files
+*.iml
+.idea/
+*.swp
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore database credentials file if any
+db.properties
+.env
+
+# Ignore generated files
+*.war
+*.jar
+
+# Ignore MySQL dump files (optional)
+*.sql
