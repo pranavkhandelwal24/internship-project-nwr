@@ -8,12 +8,6 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/javax.servlet-api-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/mysql-connector-java-8.0.28.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar"/>
 	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar"/>
 	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/gson-2.10.1.jar"/>
@@ -22,5 +16,11 @@
 	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/javax.servlet.jsp-api-2.3.3.jar"/>
 	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/activation-1.1.1.jar"/>
 	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/javax.mail-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/Users/HP/Downloads/Jar Files/javax.servlet-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Users/HP/Downloads/Jar Files/mysql-connector-java-8.0.28.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
